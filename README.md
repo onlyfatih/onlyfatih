@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">A QA Engineer from Turkey 🇹🇷</h3>
 
+<div style="position: fixed; top: 0; right: 1000;">
+  <img src="https://media2.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif?cid=ecf05e47u9y1mxy0f76r6izfv6wswd04k92yy4f7wt0p7i4c&rid=giphy.gif&ct=g" width="195" height="195" />
+</div>
+
 
 - 🔭 I’m currently working on **many web test projects.**
 
@@ -8,9 +12,7 @@
 
 - 📫 How to reach me **farslan0699@gmail.com**
 
-<div style="position: fixed; top: 0; right: 1000;">
-  <img src="https://media2.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif?cid=ecf05e47u9y1mxy0f76r6izfv6wswd04k92yy4f7wt0p7i4c&rid=giphy.gif&ct=g" width="195" height="195" />
-</div>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
