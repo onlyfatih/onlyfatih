@@ -8,7 +8,10 @@
 
 - 📫 How to reach me **farslan0699@gmail.com**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media2.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif?cid=ecf05e47u9y1mxy0f76r6izfv6wswd04k92yy4f7wt0p7i4c&rid=giphy.gif&ct=g" width="195" height="195" /> 
+<div style="position: fixed; top: 0; right: 0;">
+  <img src="https://media2.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif?cid=ecf05e47u9y1mxy0f76r6izfv6wswd04k92yy4f7wt0p7i4c&rid=giphy.gif&ct=g" width="195" height="195" />
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> / <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SeleniumHQ/selenium/main/common/src/web/images/selenium-logo.png" alt="selenium" width="40" height="40"/> </a>
