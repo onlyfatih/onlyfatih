@@ -6,10 +6,6 @@
 - 🌱 I’m currently learning **Java and selenium**
 - 📫 How to reach me **farslan0699@gmail.com**
 
-<p align="right">
-  <img src="https://media2.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif?cid=ecf05e47u9y1mxy0f76r6izfv6wswd04k92yy4f7wt0p7i4c&rid=giphy.gif&ct=g" width="195" height="195" />
-</p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
