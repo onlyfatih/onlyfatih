@@ -2,7 +2,7 @@
 <h3 align="center">A QA Engineer from Turkey 🇹🇷</h3>
 
 
-- 🔭 I’m currently working on **many web test projects.**
+- 🔭 I’m currently working on **many web and mobile test projects.**
 - 🌱 I’m currently learning **Java and selenium**
 - 📫 How to reach me **farslan0699@gmail.com**
 
