@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-<h3 align="center">A Software Test Automation Engineer from Turkey 🇹🇷</h3>
+<h3 align="center">A Software Test Automation Development Engineer from Turkey 🇹🇷</h3>
 
 
 - 🔭 I’m currently working on **many web and mobile test projects.**
