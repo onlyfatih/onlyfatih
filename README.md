@@ -2,8 +2,8 @@
 <h3 align="center">A Software Test Automation Development Engineer from Turkey 🇹🇷</h3>
 
 
-- 🔭 I’m currently working on **many web and mobile test projects.**
-- 🌱 I’m currently learning **Java and selenium**
+- 🔭 I’m currently working on **many UI and API test projects.**
+- 🌱 I’m currently learning **Playwright and behave**
 - 📫 How to reach me **farslan0699@gmail.com**
 
 
